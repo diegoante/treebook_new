@@ -1,0 +1,28 @@
+[33mcommit 2c2753fc577177b4df07fbfc355d8b5eb62dc6b9[m
+Author: Diego Ante <diegoantev@gmail.com>
+Date:   Wed Jan 30 02:04:17 2013 -0500
+
+    Updated frontend fot the new authentication system
+    
+    Added simple_form
+    Updated several forms to bootstrap/simple_form
+    Added login/logout/register/profile links to our nave
+    Added a collection select to our status form
+
+[33mcommit dfbfc661b40138e30899d44733b778c7094f81e4[m
+Author: Diego Ante <diegoantev@gmail.com>
+Date:   Wed Jan 30 00:38:29 2013 -0500
+
+    Installed devise, added a user, and installed devise views.
+
+[33mcommit 7985a55e304aa57e46a45a4dc5fbf76a9c1a282a[m
+Author: Diego Ante <diegoantev@gmail.com>
+Date:   Wed Jan 30 00:09:24 2013 -0500
+
+    Added Bootstrap and applied layout to the page
+
+[33mcommit 0667d1a33bdedd2b4a6ac3c4ce8121493de04eb9[m
+Author: Diego Ante <diegoantev@gmail.com>
+Date:   Tue Jan 29 23:01:00 2013 -0500
+
+    Created a rails application and added status updates
